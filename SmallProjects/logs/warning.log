@@ -1,0 +1,501 @@
+Aviso: Tool:rup_rose_rt: Elemento de categoría de contenido vacío no publicado.
+Aviso: Discipline:rup_deployment_discipline: Elemento de categoría de contenido vacío no publicado.
+Aviso: Domain:deployment: Elemento de categoría de contenido vacío no publicado.
+Aviso: CustomCategory:g_reports: Elemento de categoría de contenido vacío no publicado.
+Aviso: Tool:rup_rational_application_developer: Elemento de categoría de contenido vacío no publicado.
+Aviso: Tool:rup_rational_software_architect: Elemento de categoría de contenido vacío no publicado.
+Aviso: Activity:prepare_environment_for_project: Elemento con referencias ausente Artifact:rup_development_organization_assessment
+Aviso: Activity:create_project_configuration_management_cm_environments: Elemento con referencias ausente Concept:product_directory_structure
+Aviso: Activity:create_project_configuration_management_cm_environments: Elemento con referencias ausente Concept:workspaces
+Aviso: TaskDescriptor:setup_cm_environment: Elemento con referencias ausente Concept:product_directory_structure
+Aviso: TaskDescriptor:setup_cm_environment: Elemento con referencias ausente Concept:baselining
+Aviso: Activity:plan_the_project: Elemento con referencias ausente Task:compile_software_development_plan
+Aviso: Activity:plan_the_project: Elemento con referencias ausente Artifact:rup_development_case
+Aviso: TaskDescriptor:define_project_organization_and_staffing: Elemento con referencias ausente Guideline:software_development_plan
+Aviso: TaskDescriptor:plan_phases_and_iterations: Elemento con referencias ausente Guideline:software_development_plan
+Aviso: TaskDescriptor:plan_phases_and_iterations: Elemento con referencias ausente Guideline:software_development_plan
+Aviso: Activity:monitor_control_project: Elemento con referencias ausente Task:monitor_project_status
+Aviso: Activity:monitor_control_project: Elemento con referencias ausente Artifact:rup_problem_resolution_plan
+Aviso: TaskDescriptor:schedule_and_assign_work: Elemento con referencias ausente Task:handle_exceptions_and_problems
+Aviso: TaskDescriptor:report_status: Elemento con referencias ausente Artifact:rup_issues_list
+Aviso: TaskDescriptor:report_status: Elemento con referencias ausente Artifact:rup_project_measurements
+Aviso: TaskDescriptor:report_status: Elemento con referencias ausente Task:monitor_project_status
+Aviso: Activity:manage_the_scope_of_the_system: Elemento con referencias ausente Concept:types_of_requirements
+Aviso: Activity:manage_the_scope_of_the_system: Elemento con referencias ausente Artifact:rup_requirements_attributes
+Aviso: Activity:manage_the_scope_of_the_system: Elemento con referencias ausente Concept:traceability
+Aviso: Activity:manage_the_scope_of_the_system: Elemento con referencias ausente Task:manage_dependencies
+Aviso: Activity:manage_the_scope_of_the_system: Elemento con referencias ausente Artifact:rup_requirements_attributes
+Aviso: Activity:define_the_system: Elemento con referencias ausente Concept:traceability
+Aviso: Activity:define_the_system: Elemento con referencias ausente Task:manage_dependencies
+Aviso: TaskDescriptor:define_test_approach: Elemento con referencias ausente Task:define_testability_elements
+Aviso: Activity:manage_iteration: Elemento con referencias ausente Task:iteration_acceptance_review
+Aviso: Activity:manage_iteration: Elemento con referencias ausente Artifact:rup_test_plan
+Aviso: TaskDescriptor:assess_iteration: Elemento con referencias ausente Guideline:metrics
+Aviso: TaskDescriptor:assess_iteration: Elemento con referencias ausente Artifact:rup_development_organization_assessment
+Aviso: Milestone:Inception Milestone: Elemento con referencias ausente Task:lifecycle_milestone_review
+Aviso: Activity:plan_the_project: Elemento con referencias ausente Task:compile_software_development_plan
+Aviso: Activity:plan_the_project: Elemento con referencias ausente Artifact:rup_development_case
+Aviso: Activity:manage_iteration: Elemento con referencias ausente Task:iteration_acceptance_review
+Aviso: Activity:manage_iteration: Elemento con referencias ausente Artifact:rup_test_plan
+Aviso: Activity:monitor_control_project: Elemento con referencias ausente Task:monitor_project_status
+Aviso: Activity:monitor_control_project: Elemento con referencias ausente Artifact:rup_problem_resolution_plan
+Aviso: Activity:manage_changing_requirements: Elemento con referencias ausente Artifact:rup_requirements_attributes
+Aviso: Activity:manage_changing_requirements: Elemento con referencias ausente Concept:traceability
+Aviso: Activity:manage_changing_requirements: Elemento con referencias ausente Concept:traceability
+Aviso: Activity:manage_changing_requirements: Elemento con referencias ausente Task:manage_dependencies
+Aviso: TaskDescriptor:schedule_and_assign_work: Elemento con referencias ausente Task:handle_exceptions_and_problems
+Aviso: TaskDescriptor:identify_design_mechanisms: Elemento con referencias ausente Task:prepare_project_specific_guidelines
+Aviso: TaskDescriptor:identify_design_elements: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: TaskDescriptor:identify_design_elements: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: TaskDescriptor:structure_implementation_model: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: TaskDescriptor:describe_runtime_architecture: Elemento con referencias ausente Artifact:rup_capsule
+Aviso: TaskDescriptor:describe_runtime_architecture: Elemento con referencias ausente Artifact:rup_capsule
+Aviso: TaskDescriptor:identify_design_elements: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: TaskDescriptor:identify_design_elements: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: TaskDescriptor:review_the_design: Elemento con referencias ausente Artifact:rup_protocol
+Aviso: TaskDescriptor:review_the_design: Elemento con referencias ausente Artifact:rup_capsule
+Aviso: Activity:design_components: Elemento con referencias ausente Task:capsule_design
+Aviso: TaskDescriptor:use_case_design: Elemento con referencias ausente Artifact:rup_capsule
+Aviso: TaskDescriptor:use_case_design: Elemento con referencias ausente Artifact:rup_capsule
+Aviso: TaskDescriptor:use_case_design: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: TaskDescriptor:subsystem_design: Elemento con referencias ausente Artifact:rup_capsule
+Aviso: TaskDescriptor:subsystem_design: Elemento con referencias ausente Artifact:rup_capsule
+Aviso: TaskDescriptor:class_design: Elemento con referencias ausente Artifact:rup_capsule
+Aviso: TaskDescriptor:class_design: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: TaskDescriptor:class_design: Elemento con referencias ausente Artifact:rup_capsule
+Aviso: TaskDescriptor:class_design: Elemento con referencias ausente Artifact:rup_capsule
+Aviso: TaskDescriptor:class_design: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: TaskDescriptor:review_the_design: Elemento con referencias ausente Artifact:rup_protocol
+Aviso: TaskDescriptor:review_the_design: Elemento con referencias ausente Artifact:rup_capsule
+Aviso: TaskDescriptor:class_design: Elemento con referencias ausente Artifact:rup_capsule
+Aviso: TaskDescriptor:class_design: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: TaskDescriptor:class_design: Elemento con referencias ausente Artifact:rup_capsule
+Aviso: TaskDescriptor:class_design: Elemento con referencias ausente Artifact:rup_capsule
+Aviso: TaskDescriptor:class_design: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: TaskDescriptor:review_the_design: Elemento con referencias ausente Artifact:rup_protocol
+Aviso: TaskDescriptor:review_the_design: Elemento con referencias ausente Artifact:rup_capsule
+Aviso: TaskDescriptor:perform_developer_test: Elemento con referencias ausente Task:create_development_workspace
+Aviso: TaskDescriptor:perform_developer_test: Elemento con referencias ausente Task:make_changes_to_configuration_items
+Aviso: TaskDescriptor:perform_developer_test: Elemento con referencias ausente Task:deliver_changes
+Aviso: TaskDescriptor:perform_developer_test: Elemento con referencias ausente Task:update_workspace
+Aviso: TaskDescriptor:perform_developer_test: Elemento con referencias ausente Task:create_development_workspace
+Aviso: TaskDescriptor:perform_developer_test: Elemento con referencias ausente Task:make_changes_to_configuration_items
+Aviso: TaskDescriptor:perform_developer_test: Elemento con referencias ausente Task:deliver_changes
+Aviso: TaskDescriptor:perform_developer_test: Elemento con referencias ausente Task:update_workspace
+Aviso: TaskDescriptor:integrate_system: Elemento con referencias ausente Task:create_baseline
+Aviso: TaskDescriptor:integrate_system: Elemento con referencias ausente Task:promote_baseline
+Aviso: TaskDescriptor:define_test_approach: Elemento con referencias ausente Task:define_testability_elements
+Aviso: Milestone:Elaboration Milestone: Elemento con referencias ausente Task:lifecycle_milestone_review
+Aviso: Milestone:Construction Milestone: Elemento con referencias ausente Task:lifecycle_milestone_review
+Aviso: Milestone:Transition Milestone: Elemento con referencias ausente Task:lifecycle_milestone_review
+Aviso: Milestone:Transition Milestone: Elemento con referencias ausente Task:project_acceptance_review
+Aviso: Role:rup_system_analyst: Elemento con referencias ausente Role:rup_deployment_manager
+Aviso: Guideline:important_decisions_in_requirements: Elemento con referencias ausente Artifact:rup_requirements_attributes
+Aviso: Guideline:important_decisions_in_requirements: Elemento con referencias ausente Artifact:rup_requirements_management_plan
+Aviso: Guideline:important_decisions_in_requirements: Elemento con referencias ausente Concept:traceability
+Aviso: Guideline:important_decisions_in_requirements: Elemento con referencias ausente Concept:traceability
+Aviso: Guideline:software_requirements_specification: Elemento con referencias ausente Concept:types_of_requirements
+Aviso: Concept:change_request_management: Elemento con referencias ausente Task:establish_project_change_control_process
+Aviso: ToolMentor:manage_dependencies_tm: Elemento con referencias ausente Concept:types_of_requirements
+Aviso: ToolMentor:manage_dependencies_tm: Elemento con referencias ausente Concept:types_of_requirements
+Aviso: ToolMentor:manage_dependencies_tm: Elemento con referencias ausente Concept:traceability
+Aviso: ToolMentor:elicit_stakeholder_requests_tm: Elemento con referencias ausente Concept:types_of_requirements
+Aviso: ToolMentor:elicit_stakeholder_requests_tm: Elemento con referencias ausente Concept:traceability
+Aviso: ToolMentor:elicit_stakeholder_requests_tm: Elemento con referencias ausente Task:manage_dependencies
+Aviso: ToolMentor:setup_reqpro: Elemento con referencias ausente Concept:traceability
+Aviso: ToolMentor:create_use_case_model_survey: Elemento con referencias ausente Report:use-case_model_survey
+Aviso: ToolMentor:create_actor_report: Elemento con referencias ausente Report:actor_report_-_actor_name
+Aviso: ToolMentor:create_use_case_report: Elemento con referencias ausente Report:use_case_specification_use-case_name
+Aviso: ToolMentor:create_sad: Elemento con referencias ausente Report:design-model_survey
+Aviso: ToolMentor:create_sad: Elemento con referencias ausente Report:use-case_realization_use-case_name
+Aviso: ToolMentor:create_use_case_real_report: Elemento con referencias ausente Report:use-case_realization_use-case_name
+Aviso: ToolMentor:create_design_model_survey_report: Elemento con referencias ausente Report:design-model_survey
+Aviso: ToolMentor:create_class_report: Elemento con referencias ausente Report:class_report_class_name
+Aviso: ToolMentor:create_package_report: Elemento con referencias ausente Report:design_package_subsystem
+Aviso: Task:describe_runtime_architecture: Elemento con referencias ausente Artifact:rup_capsule
+Aviso: Task:describe_runtime_architecture: Elemento con referencias ausente Artifact:rup_capsule
+Aviso: Task:structure_implementation_model: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: Task:identify_design_elements: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: Task:identify_design_elements: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: Task:identify_design_mechanisms: Elemento con referencias ausente Task:prepare_project_specific_guidelines
+Aviso: Concept:software_architecture: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: Concept:concurrency: Elemento con referencias ausente Artifact:rup_capsule
+Aviso: Concept:concurrency: Elemento con referencias ausente Artifact:rup_capsule
+Aviso: Concept:concurrency: Elemento con referencias ausente Artifact:rup_protocol
+Aviso: Concept:design_and_implementation_mechanisms: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: Task:use_case_design: Elemento con referencias ausente Artifact:rup_capsule
+Aviso: Task:use_case_design: Elemento con referencias ausente Artifact:rup_capsule
+Aviso: Task:use_case_design: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: Task:class_design: Elemento con referencias ausente Artifact:rup_capsule
+Aviso: Task:class_design: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: Task:class_design: Elemento con referencias ausente Artifact:rup_capsule
+Aviso: Task:class_design: Elemento con referencias ausente Artifact:rup_capsule
+Aviso: Task:class_design: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: Task:subsystem_design: Elemento con referencias ausente Artifact:rup_capsule
+Aviso: Task:subsystem_design: Elemento con referencias ausente Artifact:rup_capsule
+Aviso: Artifact:rup_design_subsystem: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: Guideline:design_subsystem: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: Guideline:design_subsystem: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: Task:perform_developer_test: Elemento con referencias ausente Task:create_development_workspace
+Aviso: Task:perform_developer_test: Elemento con referencias ausente Task:make_changes_to_configuration_items
+Aviso: Task:perform_developer_test: Elemento con referencias ausente Task:deliver_changes
+Aviso: Task:perform_developer_test: Elemento con referencias ausente Task:update_workspace
+Aviso: Artifact:rup_implementation_element: Elemento con referencias ausente Guideline:implementation_element
+Aviso: Artifact:rup_implementation_element: Elemento con referencias ausente Guideline:implementation_element
+Aviso: Concept:mapping_from_design_to_code: Elemento con referencias ausente Artifact:rup_development_case
+Aviso: Concept:mapping_from_design_to_code: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: Concept:developer_testing: Elemento con referencias ausente Concept:stubs
+Aviso: Task:integrate_system: Elemento con referencias ausente Task:create_baseline
+Aviso: Task:integrate_system: Elemento con referencias ausente Task:promote_baseline
+Aviso: Task:review_the_design: Elemento con referencias ausente Artifact:rup_protocol
+Aviso: Task:review_the_design: Elemento con referencias ausente Artifact:rup_capsule
+Aviso: Concept:component: Elemento con referencias ausente Guideline:implementation_element
+Aviso: Guideline:important_decisions_in_analysis_design: Elemento con referencias ausente Artifact:rup_protocol
+Aviso: Guideline:important_decisions_in_analysis_design: Elemento con referencias ausente Artifact:rup_capsule
+Aviso: Guideline:important_decisions_in_analysis_design: Elemento con referencias ausente Task:develop_development_case
+Aviso: Discipline:rup_implementation_discipline: Elemento con referencias ausente Discipline:rup_deployment_discipline
+Aviso: Guideline:important_decisions_in_implementation: Elemento con referencias ausente Task:develop_development_case
+Aviso: Guideline:important_decisions_in_implementation: Elemento con referencias ausente Artifact:rup_test_plan
+Aviso: Guideline:software_architecture_document: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: Concept:process_view: Elemento con referencias ausente Artifact:rup_capsule
+Aviso: Concept:process_view: Elemento con referencias ausente Artifact:rup_capsule
+Aviso: Concept:process_view: Elemento con referencias ausente Artifact:rup_protocol
+Aviso: Concept:structured_class: Elemento con referencias ausente Artifact:rup_capsule
+Aviso: Concept:structured_class: Elemento con referencias ausente Guideline:capsule
+Aviso: Concept:structured_class: Elemento con referencias ausente Artifact:rup_capsule
+Aviso: Concept:structured_class: Elemento con referencias ausente Guideline:capsule
+Aviso: Guideline:concurrency: Elemento con referencias ausente Artifact:rup_capsule
+Aviso: Guideline:concurrency: Elemento con referencias ausente Artifact:rup_protocol
+Aviso: Guideline:design_model: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: Guideline:implementation_model: Elemento con referencias ausente Guideline:implementation_element
+Aviso: Artifact:rup_project_repository: Elemento con referencias ausente Artifact:rup_cm_plan
+Aviso: Concept:development_environment: Elemento con referencias ausente Artifact:rup_development_case
+Aviso: Concept:development_environment: Elemento con referencias ausente Artifact:rup_tools
+Aviso: Concept:development_environment: Elemento con referencias ausente Artifact:rup_project_specific_templates
+Aviso: Concept:development_environment: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: Concept:development_environment: Elemento con referencias ausente Artifact:rup_cm_plan
+Aviso: Concept:development_environment: Elemento con referencias ausente Artifact:rup_manual_styleguide
+Aviso: Concept:development_environment: Elemento con referencias ausente Artifact:rup_test_plan
+Aviso: Concept:development_environment: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: Concept:development_environment: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: Concept:development_environment: Elemento con referencias ausente Artifact:rup_test_environment_configuration
+Aviso: Task:setup_cm_environment: Elemento con referencias ausente Concept:product_directory_structure
+Aviso: Task:setup_cm_environment: Elemento con referencias ausente Concept:baselining
+Aviso: Task:define_project_organization_and_staffing: Elemento con referencias ausente Guideline:software_development_plan
+Aviso: Task:report_status: Elemento con referencias ausente Artifact:rup_issues_list
+Aviso: Task:report_status: Elemento con referencias ausente Artifact:rup_project_measurements
+Aviso: Task:report_status: Elemento con referencias ausente Task:monitor_project_status
+Aviso: Task:plan_phases_and_iterations: Elemento con referencias ausente Guideline:software_development_plan
+Aviso: Task:plan_phases_and_iterations: Elemento con referencias ausente Guideline:software_development_plan
+Aviso: Task:schedule_and_assign_work: Elemento con referencias ausente Task:handle_exceptions_and_problems
+Aviso: Task:assess_iteration: Elemento con referencias ausente Guideline:metrics
+Aviso: Task:assess_iteration: Elemento con referencias ausente Artifact:rup_development_organization_assessment
+Aviso: Concept:measuring_quality: Elemento con referencias ausente Guideline:metrics
+Aviso: Concept:measuring_quality: Elemento con referencias ausente Guideline:metrics
+Aviso: Concept:metrics: Elemento con referencias ausente Guideline:metrics
+Aviso: Discipline:rup_config_and_change_manage_discipline: Elemento con referencias ausente Domain:deployment
+Aviso: Guideline:important_decisions_in_configuration_change_management: Elemento con referencias ausente Artifact:rup_configuration_audit_findings
+Aviso: Guideline:important_decisions_in_configuration_change_management: Elemento con referencias ausente Artifact:rup_cm_plan
+Aviso: Guideline:important_decisions_in_configuration_change_management: Elemento con referencias ausente Artifact:rup_workspace
+Aviso: Guideline:important_decisions_in_configuration_change_management: Elemento con referencias ausente Task:develop_development_case
+Aviso: CapabilityPattern:environment: Elemento con referencias ausente Artifact:rup_manual_styleguide
+Aviso: CapabilityPattern:environment: Elemento con referencias ausente Artifact:rup_support_material
+Aviso: CapabilityPattern:environment: Elemento con referencias ausente Artifact:rup_development_case
+Aviso: Concept:implementing_a_process_in_a_project: Elemento con referencias ausente Artifact:rup_development_organization_assessment
+Aviso: Concept:implementing_a_process_in_a_project: Elemento con referencias ausente Artifact:rup_development_organization_assessment
+Aviso: Concept:implementing_a_process_in_a_project: Elemento con referencias ausente Artifact:rup_tools
+Aviso: Concept:implementing_a_process_in_a_project: Elemento con referencias ausente Artifact:rup_requirements_management_plan
+Aviso: Concept:implementing_a_process_in_a_project: Elemento con referencias ausente Artifact:rup_tools
+Aviso: Concept:environment_practices: Elemento con referencias ausente Artifact:rup_development_organization_assessment
+Aviso: Concept:environment_practices: Elemento con referencias ausente Guideline:assessment_workshop
+Aviso: Concept:environment_practices: Elemento con referencias ausente Role:rup_tool_specialist
+Aviso: Discipline:rup_project_management_discipline: Elemento con referencias ausente Discipline:rup_deployment_discipline
+Aviso: CapabilityPattern:project_management: Elemento con referencias ausente Artifact:rup_software_development_plan
+Aviso: CapabilityPattern:project_management: Elemento con referencias ausente Artifact:rup_software_development_plan
+Aviso: CapabilityPattern:project_management: Elemento con referencias ausente Task:iteration_acceptance_review
+Aviso: CapabilityPattern:project_management: Elemento con referencias ausente Artifact:rup_test_plan
+Aviso: CapabilityPattern:project_management: Elemento con referencias ausente Task:project_acceptance_review
+Aviso: Guideline:important_decisions_in_project_management: Elemento con referencias ausente Artifact:rup_measurement_plan
+Aviso: Guideline:important_decisions_in_project_management: Elemento con referencias ausente Artifact:rup_problem_resolution_plan
+Aviso: Guideline:important_decisions_in_project_management: Elemento con referencias ausente Artifact:rup_product_acceptance_plan
+Aviso: Guideline:important_decisions_in_project_management: Elemento con referencias ausente Artifact:rup_quality_assurance_plan
+Aviso: Guideline:important_decisions_in_project_management: Elemento con referencias ausente Artifact:rup_risk_management_plan
+Aviso: Guideline:important_decisions_in_project_management: Elemento con referencias ausente Artifact:rup_project_measurements
+Aviso: Concept:iteration: Elemento con referencias ausente Guideline:software_development_plan
+Aviso: Concept:agile_practices_and_rup: Elemento con referencias ausente Artifact:rup_test_plan
+Aviso: Concept:agile_practices_and_rup: Elemento con referencias ausente Artifact:rup_test_case
+Aviso: Concept:agile_practices_and_rup: Elemento con referencias ausente Artifact:rup_test_script
+Aviso: Concept:agile_practices_and_rup: Elemento con referencias ausente Artifact:rup_test_data
+Aviso: Concept:agile_practices_and_rup: Elemento con referencias ausente Artifact:rup_deployment_unit
+Aviso: Concept:agile_practices_and_rup: Elemento con referencias ausente Artifact:rup_release_notes
+Aviso: Concept:agile_practices_and_rup: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: Concept:agile_practices_and_rup: Elemento con referencias ausente Artifact:rup_development_case
+Aviso: Concept:agile_practices_and_rup: Elemento con referencias ausente Artifact:rup_test_environment_configuration
+Aviso: Concept:agile_practices_and_rup: Elemento con referencias ausente Artifact:rup_workspace
+Aviso: Concept:agile_practices_and_rup: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: Concept:agile_practices_and_rup: Elemento con referencias ausente Artifact:rup_support_material
+Aviso: Concept:agile_practices_and_rup: Elemento con referencias ausente Artifact:rup_support_material
+Aviso: Concept:agile_practices_and_rup: Elemento con referencias ausente Role:rup_deployment_manager
+Aviso: Concept:agile_practices_and_rup: Elemento con referencias ausente Role:rup_technical_writer
+Aviso: ToolMentor:creating_test_plan: Elemento con referencias ausente Artifact:rup_test_plan
+Aviso: ToolMentor:create_test_case: Elemento con referencias ausente Artifact:rup_test_case
+Aviso: Artifact:rup_test_ideas_list: Elemento con referencias ausente Artifact:rup_test_case
+Aviso: Artifact:rup_test_ideas_list: Elemento con referencias ausente Artifact:rup_test_script
+Aviso: Artifact:rup_test_ideas_list: Elemento con referencias ausente Artifact:rup_test_plan
+Aviso: Task:define_test_approach: Elemento con referencias ausente Task:define_testability_elements
+Aviso: Discipline:rup_test_discipline: Elemento con referencias ausente Discipline:rup_deployment_discipline
+Aviso: Guideline:important_decisions_in_test: Elemento con referencias ausente Artifact:rup_test_plan
+Aviso: Guideline:important_decisions_in_test: Elemento con referencias ausente Artifact:rup_test_plan
+Aviso: Guideline:important_decisions_in_test: Elemento con referencias ausente Artifact:rup_test_script
+Aviso: Guideline:important_decisions_in_test: Elemento con referencias ausente Artifact:rup_test_data
+Aviso: Guideline:important_decisions_in_test: Elemento con referencias ausente Artifact:rup_test_case
+Aviso: Guideline:important_decisions_in_test: Elemento con referencias ausente Artifact:rup_workload_analysis_model
+Aviso: Guideline:important_decisions_in_test: Elemento con referencias ausente Artifact:rup_test_class
+Aviso: Guideline:important_decisions_in_test: Elemento con referencias ausente Artifact:rup_test_component
+Aviso: Guideline:important_decisions_in_test: Elemento con referencias ausente Concept:stubs
+Aviso: Guideline:important_decisions_in_test: Elemento con referencias ausente Artifact:rup_test_automation_architecture
+Aviso: Guideline:important_decisions_in_test: Elemento con referencias ausente Artifact:rup_test_interface_specification
+Aviso: Guideline:important_decisions_in_test: Elemento con referencias ausente Task:develop_development_case
+Aviso: SupportingMaterial:continuously_verify_quality: Elemento con referencias ausente CapabilityPattern:deployment
+Aviso: Concept:levels_of_test: Elemento con referencias ausente Concept:acceptance_testing
+Aviso: Concept:types_of_test: Elemento con referencias ausente Concept:performance_testing
+Aviso: Concept:test-ideas_list: Elemento con referencias ausente Task:define_assessment_and_traceability_needs
+Aviso: SupportingMaterial:process_essentials: Elemento con referencias ausente CapabilityPattern:deployment
+Aviso: Concept:developing_component_solutions: Elemento con referencias ausente Task:prepare_project_specific_guidelines
+Aviso: Concept:developing_component_solutions: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: Concept:developing_e-business_solutions: Elemento con referencias ausente Concept:performance_testing
+Aviso: Concept:developing_e-business_solutions: Elemento con referencias ausente Task:prepare_project_specific_guidelines
+Aviso: Concept:developing_e-business_solutions: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: Concept:developing_e-business_solutions: Elemento con referencias ausente Task:prepare_project_specific_guidelines
+Aviso: Concept:usability_engineering: Elemento con referencias ausente Role:rup_deployment_manager
+Aviso: Concept:usability_engineering: Elemento con referencias ausente Role:rup_course_developer
+Aviso: Concept:usability_engineering: Elemento con referencias ausente Role:rup_technical_writer
+Aviso: Concept:usability_engineering: Elemento con referencias ausente Guideline:assessment_workshop
+Aviso: Concept:usability_engineering: Elemento con referencias ausente Task:manage_dependencies
+Aviso: Concept:usability_engineering: Elemento con referencias ausente Artifact:rup_requirements_attributes
+Aviso: Concept:usability_engineering: Elemento con referencias ausente Concept:performance_testing
+Aviso: Concept:usability_engineering: Elemento con referencias ausente Activity:beta_test_product
+Aviso: Concept:usability_engineering: Elemento con referencias ausente Activity:manage_acceptance_test
+Aviso: Concept:usability_engineering: Elemento con referencias ausente Activity:develop_support_material
+Aviso: Concept:usability_engineering: Elemento con referencias ausente Task:develop_development_case
+Aviso: Concept:usability_engineering: Elemento con referencias ausente Artifact:rup_development_case
+Aviso: Concept:usability_engineering: Elemento con referencias ausente Task:prepare_project_specific_guidelines
+Aviso: Concept:usability_engineering: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: Concept:usability_engineering: Elemento con referencias ausente Task:lifecycle_milestone_review
+Aviso: Concept:usability_engineering: Elemento con referencias ausente Concept:performance_testing
+Aviso: Concept:usability_engineering: Elemento con referencias ausente Concept:performance_testing
+Aviso: Concept:usability_engineering: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: Concept:usability_engineering: Elemento con referencias ausente CapabilityPattern:deployment
+Aviso: SupportingMaterial:welcome: Elemento con referencias ausente Discipline:rup_business_modeling_discipline
+Aviso: SupportingMaterial:welcome: Elemento con referencias ausente Discipline:rup_deployment_discipline
+Aviso: Activity:manage_the_scope_of_the_system: Elemento con referencias ausente Concept:types_of_requirements
+Aviso: Activity:manage_the_scope_of_the_system: Elemento con referencias ausente Artifact:rup_requirements_attributes
+Aviso: Activity:manage_the_scope_of_the_system: Elemento con referencias ausente Concept:traceability
+Aviso: Activity:manage_the_scope_of_the_system: Elemento con referencias ausente Task:manage_dependencies
+Aviso: Activity:manage_the_scope_of_the_system: Elemento con referencias ausente Artifact:rup_requirements_attributes
+Aviso: Activity:define_the_system: Elemento con referencias ausente Concept:traceability
+Aviso: Activity:define_the_system: Elemento con referencias ausente Task:manage_dependencies
+Aviso: Concept:lifecycle_objectives: Elemento con referencias ausente Artifact:rup_product_acceptance_plan
+Aviso: Concept:lifecycle_architecture: Elemento con referencias ausente Artifact:rup_test_automation_architecture
+Aviso: Concept:lifecycle_architecture: Elemento con referencias ausente Artifact:rup_test_plan
+Aviso: Concept:lifecycle_architecture: Elemento con referencias ausente Artifact:rup_support_material
+Aviso: Concept:initial_operational_capability: Elemento con referencias ausente Artifact:rup_deployment_plan
+Aviso: Concept:initial_operational_capability: Elemento con referencias ausente Artifact:rup_support_material
+Aviso: Activity:close-out_project: Elemento con referencias ausente Task:project_acceptance_review
+Aviso: Concept:product_release: Elemento con referencias ausente Task:project_acceptance_review
+Aviso: Concept:product_release: Elemento con referencias ausente Artifact:rup_product
+Aviso: Concept:product_release: Elemento con referencias ausente Artifact:rup_support_material
+Aviso: Guideline:testing_and_evaluating_classes: Elemento con referencias ausente Concept:stubs
+Aviso: Guideline:implementation_subsystem: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: Guideline:testing_and_evaluating_components: Elemento con referencias ausente Concept:stubs
+Aviso: Guideline:test_case: Elemento con referencias ausente Artifact:rup_workload_analysis_model
+Aviso: Guideline:test_case: Elemento con referencias ausente Guideline:test_data
+Aviso: Guideline:process_tailoring_practices: Elemento con referencias ausente Artifact:rup_product
+Aviso: Guideline:use-case_workshop: Elemento con referencias ausente Concept:types_of_requirements
+Aviso: Guideline:use-case_workshop: Elemento con referencias ausente Concept:traceability
+Aviso: Guideline:use-case_workshop: Elemento con referencias ausente Concept:types_of_requirements
+Aviso: Guideline:use-case_workshop: Elemento con referencias ausente Concept:traceability
+Aviso: Guideline:development_process_workshop: Elemento con referencias ausente Role:rup_tool_specialist
+Aviso: Guideline:requirements_workshop: Elemento con referencias ausente Artifact:rup_requirements_attributes
+Aviso: Example:collegiate_sports_paging_system: Elemento con referencias ausente Artifact:rup_development_case
+Aviso: Example:collegiate_sports_paging_system: Elemento con referencias ausente Artifact:rup_requirements_management_plan
+Aviso: Example:collegiate_sports_paging_system: Elemento con referencias ausente Artifact:rup_test_plan
+Aviso: Example:collegiate_sports_paging_system: Elemento con referencias ausente Artifact:rup_release_notes
+Aviso: RoleDescriptor:rup_system_analyst: Elemento con referencias ausente Role:rup_deployment_manager
+Aviso: WorkProductDescriptor:rup_project_repository: Elemento con referencias ausente Artifact:rup_cm_plan
+Aviso: WorkProductDescriptor:rup_test_ideas_list: Elemento con referencias ausente Artifact:rup_test_case
+Aviso: WorkProductDescriptor:rup_test_ideas_list: Elemento con referencias ausente Artifact:rup_test_script
+Aviso: WorkProductDescriptor:rup_test_ideas_list: Elemento con referencias ausente Artifact:rup_test_plan
+Aviso: WorkProductDescriptor:rup_design_subsystem: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: CapabilityPattern:rup_phases: Elemento con referencias ausente DeliveryProcess:classic_rup
+Aviso: RoleDescriptor:rup_system_analyst: Elemento con referencias ausente Role:rup_deployment_manager
+Aviso: Activity:prepare_environment_for_project: Elemento con referencias ausente Artifact:rup_development_organization_assessment
+Aviso: Artifact:rup_development_organization_assessment: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Activity:create_project_configuration_management_cm_environments: Elemento con referencias ausente Concept:product_directory_structure
+Aviso: Activity:create_project_configuration_management_cm_environments: Elemento con referencias ausente Concept:workspaces
+Aviso: Concept:product_directory_structure: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Concept:workspaces: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Concept:baselining: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Task:compile_software_development_plan: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_development_case: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Activity:Refine the Project Plan: Elemento con referencias ausente Task:compile_software_development_plan
+Aviso: Activity:Refine the Project Plan: Elemento con referencias ausente Artifact:rup_development_case
+Aviso: Guideline:software_development_plan: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Activity:monitor_control_project: Elemento con referencias ausente Task:monitor_project_status
+Aviso: Activity:monitor_control_project: Elemento con referencias ausente Artifact:rup_problem_resolution_plan
+Aviso: Task:monitor_project_status: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_problem_resolution_plan: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Task:handle_exceptions_and_problems: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_issues_list: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_project_measurements: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Concept:types_of_requirements: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_requirements_attributes: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Concept:traceability: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Task:manage_dependencies: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Activity:manage_the_scope_of_the_system: Elemento con referencias ausente Concept:types_of_requirements
+Aviso: Activity:manage_the_scope_of_the_system: Elemento con referencias ausente Artifact:rup_requirements_attributes
+Aviso: Activity:manage_the_scope_of_the_system: Elemento con referencias ausente Concept:traceability
+Aviso: Activity:manage_the_scope_of_the_system: Elemento con referencias ausente Task:manage_dependencies
+Aviso: Activity:manage_the_scope_of_the_system: Elemento con referencias ausente Artifact:rup_requirements_attributes
+Aviso: Activity:manage_changing_requirements: Elemento con referencias ausente Artifact:rup_requirements_attributes
+Aviso: Activity:manage_changing_requirements: Elemento con referencias ausente Concept:traceability
+Aviso: Activity:manage_changing_requirements: Elemento con referencias ausente Concept:traceability
+Aviso: Activity:manage_changing_requirements: Elemento con referencias ausente Task:manage_dependencies
+Aviso: RoleDescriptor:rup_system_analyst: Elemento con referencias ausente Role:rup_deployment_manager
+Aviso: Task:define_testability_elements: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Activity:manage_iteration: Elemento con referencias ausente Task:iteration_acceptance_review
+Aviso: Activity:manage_iteration: Elemento con referencias ausente Artifact:rup_test_plan
+Aviso: Task:iteration_acceptance_review: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_test_plan: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Guideline:metrics: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Task:lifecycle_milestone_review: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: RoleDescriptor:rup_system_analyst: Elemento con referencias ausente Role:rup_deployment_manager
+Aviso: WorkProductDescriptor:rup_project_repository: Elemento con referencias ausente Artifact:rup_cm_plan
+Aviso: WorkProductDescriptor:rup_test_ideas_list: Elemento con referencias ausente Artifact:rup_test_case
+Aviso: WorkProductDescriptor:rup_test_ideas_list: Elemento con referencias ausente Artifact:rup_test_script
+Aviso: WorkProductDescriptor:rup_test_ideas_list: Elemento con referencias ausente Artifact:rup_test_plan
+Aviso: RoleDescriptor:rup_system_analyst: Elemento con referencias ausente Role:rup_deployment_manager
+Aviso: Activity:plan_the_project: Elemento con referencias ausente Task:compile_software_development_plan
+Aviso: Activity:plan_the_project: Elemento con referencias ausente Artifact:rup_development_case
+Aviso: RoleDescriptor:rup_system_analyst: Elemento con referencias ausente Role:rup_deployment_manager
+Aviso: Task:prepare_project_specific_guidelines: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_project_specific_guidelines: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_capsule: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: WorkProductDescriptor:rup_implementation_element: Elemento con referencias ausente Guideline:implementation_element
+Aviso: WorkProductDescriptor:rup_implementation_element: Elemento con referencias ausente Guideline:implementation_element
+Aviso: WorkProductDescriptor:rup_implementation_element: Elemento con referencias ausente Guideline:implementation_element
+Aviso: WorkProductDescriptor:rup_implementation_element: Elemento con referencias ausente Guideline:implementation_element
+Aviso: Artifact:rup_protocol: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Activity:design_components: Elemento con referencias ausente Task:capsule_design
+Aviso: Task:capsule_design: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Task:create_development_workspace: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Task:make_changes_to_configuration_items: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Task:deliver_changes: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Task:update_workspace: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: WorkProductDescriptor:rup_implementation_element: Elemento con referencias ausente Guideline:implementation_element
+Aviso: WorkProductDescriptor:rup_implementation_element: Elemento con referencias ausente Guideline:implementation_element
+Aviso: WorkProductDescriptor:rup_test_ideas_list: Elemento con referencias ausente Artifact:rup_test_case
+Aviso: WorkProductDescriptor:rup_test_ideas_list: Elemento con referencias ausente Artifact:rup_test_script
+Aviso: WorkProductDescriptor:rup_test_ideas_list: Elemento con referencias ausente Artifact:rup_test_plan
+Aviso: Task:create_baseline: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Task:promote_baseline: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: WorkProductDescriptor:rup_test_ideas_list: Elemento con referencias ausente Artifact:rup_test_case
+Aviso: WorkProductDescriptor:rup_test_ideas_list: Elemento con referencias ausente Artifact:rup_test_script
+Aviso: WorkProductDescriptor:rup_test_ideas_list: Elemento con referencias ausente Artifact:rup_test_plan
+Aviso: WorkProductDescriptor:rup_test_ideas_list: Elemento con referencias ausente Artifact:rup_test_case
+Aviso: WorkProductDescriptor:rup_test_ideas_list: Elemento con referencias ausente Artifact:rup_test_script
+Aviso: WorkProductDescriptor:rup_test_ideas_list: Elemento con referencias ausente Artifact:rup_test_plan
+Aviso: WorkProductDescriptor:rup_test_ideas_list: Elemento con referencias ausente Artifact:rup_test_case
+Aviso: WorkProductDescriptor:rup_test_ideas_list: Elemento con referencias ausente Artifact:rup_test_script
+Aviso: WorkProductDescriptor:rup_test_ideas_list: Elemento con referencias ausente Artifact:rup_test_plan
+Aviso: Task:project_acceptance_review: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Activity:analyze_the_problem: Elemento con referencias ausente Artifact:rup_requirements_management_plan
+Aviso: Activity:analyze_the_problem: Elemento con referencias ausente Concept:types_of_requirements
+Aviso: Activity:analyze_the_problem: Elemento con referencias ausente Artifact:rup_requirements_attributes
+Aviso: Activity:analyze_the_problem: Elemento con referencias ausente Concept:traceability
+Aviso: Activity:analyze_the_problem: Elemento con referencias ausente Task:develop_rm_plan
+Aviso: RoleDescriptor:rup_system_analyst: Elemento con referencias ausente Role:rup_deployment_manager
+Aviso: Activity:understand_stakeholder_needs: Elemento con referencias ausente Artifact:rup_requirements_attributes
+Aviso: Activity:understand_stakeholder_needs: Elemento con referencias ausente Concept:traceability
+Aviso: Activity:understand_stakeholder_needs: Elemento con referencias ausente Task:manage_dependencies
+Aviso: RoleDescriptor:rup_system_analyst: Elemento con referencias ausente Role:rup_deployment_manager
+Aviso: Activity:define_the_system: Elemento con referencias ausente Concept:traceability
+Aviso: Activity:define_the_system: Elemento con referencias ausente Task:manage_dependencies
+Aviso: Role:rup_deployment_manager: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_requirements_management_plan: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Task:establish_project_change_control_process: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Activity:close-out_phase: Elemento con referencias ausente Task:lifecycle_milestone_review
+Aviso: Activity:close-out_project: Elemento con referencias ausente Task:project_acceptance_review
+Aviso: Report:use-case_model_survey: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Report:actor_report_-_actor_name: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Report:use_case_specification_use-case_name: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Report:design-model_survey: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Report:use-case_realization_use-case_name: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Report:class_report_class_name: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Report:design_package_subsystem: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: TaskDescriptor:structure_implementation_model: Elemento con referencias ausente Artifact:rup_project_specific_guidelines
+Aviso: Guideline:implementation_element: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Concept:stubs: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Task:develop_development_case: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Guideline:capsule: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: WorkProductDescriptor:rup_project_repository: Elemento con referencias ausente Artifact:rup_cm_plan
+Aviso: WorkProductDescriptor:rup_project_repository: Elemento con referencias ausente Artifact:rup_cm_plan
+Aviso: Artifact:rup_cm_plan: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_tools: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_project_specific_templates: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_manual_styleguide: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_test_environment_configuration: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: TaskDescriptor:define_project_organization_and_staffing: Elemento con referencias ausente Guideline:software_development_plan
+Aviso: TaskDescriptor:plan_phases_and_iterations: Elemento con referencias ausente Guideline:software_development_plan
+Aviso: TaskDescriptor:plan_phases_and_iterations: Elemento con referencias ausente Guideline:software_development_plan
+Aviso: Artifact:rup_configuration_audit_findings: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_workspace: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_support_material: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Guideline:assessment_workshop: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Role:rup_tool_specialist: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_software_development_plan: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_measurement_plan: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_product_acceptance_plan: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_quality_assurance_plan: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_risk_management_plan: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_test_case: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_test_script: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_test_data: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_deployment_unit: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_release_notes: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Role:rup_technical_writer: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_workload_analysis_model: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_test_class: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_test_component: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_test_automation_architecture: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_test_interface_specification: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: CapabilityPattern:deployment: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Concept:acceptance_testing: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Concept:performance_testing: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Task:define_assessment_and_traceability_needs: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Role:rup_course_developer: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Activity:beta_test_product: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Activity:manage_acceptance_test: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Activity:develop_support_material: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Discipline:rup_business_modeling_discipline: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_deployment_plan: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_product: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Guideline:test_data: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Milestone:Inception Milestone: Elemento con referencias ausente Task:lifecycle_milestone_review
+Aviso: Milestone:Elaboration Milestone: Elemento con referencias ausente Task:lifecycle_milestone_review
+Aviso: Milestone:Construction Milestone: Elemento con referencias ausente Task:lifecycle_milestone_review
+Aviso: Milestone:Transition Milestone: Elemento con referencias ausente Task:lifecycle_milestone_review
+Aviso: Milestone:Transition Milestone: Elemento con referencias ausente Task:project_acceptance_review
+Aviso: DeliveryProcess:classic_rup: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Task:compile_software_development_plan: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_development_case: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Concept:types_of_requirements: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_requirements_attributes: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Concept:traceability: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Task:manage_dependencies: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_test_plan: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Task:develop_rm_plan: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Task:lifecycle_milestone_review: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Task:project_acceptance_review: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Artifact:rup_project_specific_guidelines: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.
+Aviso: Guideline:software_development_plan: IUPP0003W: El elemento no se ha publicado porque no es un elemento válido de la configuración.

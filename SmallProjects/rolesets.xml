@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RoleSets nodeId="791fc532">
+<RoleSet pname="Analistas" name="analysts" nodeId="b16fb5b0">
+<Role pname="Analista de sistemas" name="rup_system_analyst" nodeId="e8de2e0e"></Role>
+<Role pname="Especificador de requisitos" name="rup_requirement_specifier" nodeId="6651745c"></Role>
+<Role pname="Interesado" name="rup_stakeholder" nodeId="9dbfecba"></Role>
+</RoleSet>
+<RoleSet pname="Desarrolladores" name="developers" nodeId="ba1bf416">
+<Role pname="Arquitecto de software" name="rup_software_architect" nodeId="f18a6c74"></Role>
+<Role pname="Diseñador" name="rup_designer" nodeId="2c70add0"></Role>
+<Role pname="Diseñador de base de datos" name="rup_database_designer" nodeId="63df262e"></Role>
+<Role pname="Diseñador de interfaz de usuario" name="rup_user_interface_designer" nodeId="e1526c7c"></Role>
+<Role pname="Implementador" name="rup_implementer" nodeId="18c0e4da"></Role>
+<Role pname="Integrador" name="rup_integrator" nodeId="53a72636"></Role>
+</RoleSet>
+<RoleSet pname="Gestores" name="managers" nodeId="62214cc4">
+<Role pname="Administrador del sistema" name="rup_system_administrator" nodeId="ac1b276e"></Role>
+<Role pname="Gestor de configuración" name="rup_configuration_manager" nodeId="e3899fcc"></Role>
+<Role pname="Gestor de control de cambios" name="rup_change_manager" nodeId="1e6fe128"></Role>
+<Role pname="Gestor de proyectos" name="rup_project_manager" nodeId="986b5e78"></Role>
+<Role pname="Gestor de pruebas" name="rup_test_manager" nodeId="d3519fd4"></Role>
+<Role pname="Revisor de gestión" name="rup_management_reviewer" nodeId="f7546ac6"></Role>
+</RoleSet>
+<RoleSet pname="Producción y soporte" name="production_support" nodeId="2ec2e324">
+<Role pname="Administrador del sistema" name="rup_system_administrator" nodeId="ac362972"></Role>
+<Role pname="Ingeniero de proceso" name="rup_process_engineer" nodeId="e3a4a1d0"></Role>
+</RoleSet>
+<RoleSet pname="Roles generales" name="general_roles" nodeId="2ba4be08">
+<Role pname="Coordinador de revisión" name="rup_review_manager" nodeId="6538cb34"></Role>
+<Role pname="Cualquier rol" name="rup_any_role" nodeId="9df977c2"></Role>
+<Role pname="Interesado" name="rup_stakeholder" nodeId="1a1a89e0"></Role>
+<Role pname="Revisor" name="rup_reviewer" nodeId="61eecfbc"></Role>
+<Role pname="Revisor técnico" name="rup_technical_reviewer" nodeId="9b82dce8"></Role>
+</RoleSet>
+<RoleSet pname="Verificadores" name="testers" nodeId="ab4f37a6">
+<Role pname="Analista de pruebas" name="rup_test_analyst" nodeId="e4e344d2"></Role>
+<Role pname="Diseñador de pruebas" name="rup_test_designer" nodeId="1da3f160"></Role>
+<Role pname="Gestor de pruebas" name="rup_test_manager" nodeId="af69d6e6"></Role>
+<Role pname="Verificador" name="rup_tester" nodeId="bde3fd74"></Role>
+</RoleSet>
+</RoleSets>

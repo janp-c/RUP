@@ -1,0 +1,363 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" lang="es" xml:lang="es">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Patr&oacute;n de posibilidad: Integrar y probar </title>
+<meta content="CapabilityPattern" name="uma.type">
+<meta content="integrate_and_test" name="uma.name">
+<meta content="Integrar y probar " name="uma.presentationName">
+<meta name="element_type" content="other">
+<meta content="description" name="filetype">
+<meta name="role" content="">
+<link type="text/css" href="./../../css/default.css" rel="StyleSheet">
+<script language="JavaScript" type="text/javascript" src="./../../scripts/ContentPageResource.js"></script><script language="JavaScript" type="text/javascript" src="./../../scripts/ContentPageSection.js"></script><script language="JavaScript" type="text/javascript" src="./../../scripts/ContentPageSubSection.js"></script><script language="JavaScript" type="text/javascript" src="./../../scripts/ActivityTreeTable.js"></script><script language="JavaScript" type="text/javascript" src="./../../scripts/ProcessElementPage.js"></script><script language="JavaScript" type="text/javascript" src="./../../scripts/ContentPageToolbar.js"></script><script language="JavaScript" type="text/javascript" src="./../../scripts/contentPage.js"></script><script language="JavaScript" type="text/javascript" src="./../../scripts/processElementData.js"></script><script language="JavaScript" type="text/javascript">
+					var defaultQueryStr = '?proc=_b3LNYUdjEdqVZeSWHJlGyA&path=_b3LNYUdjEdqVZeSWHJlGyA';
+					var backPath = './../../';
+					var imgPath = './../../images/';
+					var nodeInfo=null;
+					contentPage.preload(imgPath, backPath, nodeInfo,  defaultQueryStr, false, true, true);
+				</script>
+</head>
+<body>
+<div id="breadcrumbs"></div>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td valign="top">
+<div autoWrap="true">
+<div id="page-guid" value="_b3LNYUdjEdqVZeSWHJlGyA"></div>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td nowrap="true" class="pageTitle">Patr&oacute;n de posibilidad: Integrar y probar </td><td width="100%">
+<div id="contentPageToolbar" align="right"></div>
+</td>
+</tr>
+</table>
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td class="pageTitleSeparator"><img height="1" title="" alt="" src="./../../images/shim.gif"></td>
+</tr>
+</table>
+<div class="overview">
+<table cellpadding="0" cellspacing="0" border="0" width="97%">
+<tr>
+<td width="50"><img title="" alt="" src="./../../images/process.gif"></td><td>
+<table cellpadding="0" cellspacing="0" border="0" class="overviewTable">
+<tr>
+<td valign="top">En este tema se abordan las actividades necesarias para integrar y probar el producto por completo. En él se incluyen todos los ámbitos de prueba, incluidos todos los niveles y tipos de pruebas planificadas para la iteración, con un ámbito ampliado por las partes del sistema que son adecuadas para la prueba. </td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr valign="middle">
+<td class="tab" width="10"><img title="" alt="" height="17" width="10" src="./../../images/shim.gif"></td><td class="tab" nowrap><a id="TAB_Description" class="tab" href="./../../core.base_rup/capabilitypatterns/integrate_and_test_6761BA0C.html_desc.html">Descripci&oacute;n</a></td><td width="21"><img title="" alt="" align="absmiddle" height="17" width="21" src="./../../images/tab_middle-i_a.gif"></td><td class="activeTab" nowrap><span style="white-space:nowrap;">Estructura de desglose de trabajo</span></td><td width="1"><img title="" alt="" align="absmiddle" height="17" width="21" src="./../../images/tab_middle-a_i.gif"></td><td class="tab" nowrap><a id="TAB_TBS" class="tab" href="./../../core.base_rup/capabilitypatterns/integrate_and_test_6761BA0C.html_tbs.html"><span style="white-space:nowrap;">Asignaci&oacute;n de equipos</span></a></td><td width="21"><img title="" alt="" align="absmiddle" height="17" width="21" src="./../../images/tab_middle-i_i.gif"></td><td class="tab" nowrap><a id="TAB_WPBS" class="tab" href="./../../core.base_rup/capabilitypatterns/integrate_and_test_6761BA0C.html_wpbs.html"><span style="white-space:nowrap;">Utilizaci&oacute;n del producto de trabajo</span></a></td><td width="21"><img title="" alt="" height="17" width="21" src="./../../images/tab_end-i.gif"></td><td width="50%"><img title="" alt="" height="17" width="10" src="./../../images/shim.gif"></td>
+</tr>
+<tr>
+<td colspan="2"><img title="" alt="" height="2" src="./../../images/shim.gif"></td><td><img title="" alt="" height="2" width="21" src="./../../images/tab_space_middle.gif"></td><td class="activeTab"><img title="" alt="" height="2" width="10" src="./../../images/shim.gif"></td><td><img title="" alt="" height="2" width="21" src="./../../images/tab_space.gif"></td><td colspan="5"><img title="" alt="" height="2" src="./../../images/shim.gif"></td>
+</tr>
+<tr>
+<td class="activeTab" colspan="10"><img title="" alt="" height="5" src="./../../images/shim.gif"></td>
+</tr>
+</table>
+<div class="sectionHeading">Flujo de trabajo</div>
+<div class="sectionContent">
+<table cellpadding="0" cellspacing="0" border="0" class="sectionTable">
+<tr>
+<td align="left" colspan="2" class="sectionTableSingleCell">
+<p></p>
+<img diagramType="Activity" border="0" id="diagram_Activity" src="./../../core.base_rup/capabilitypatterns/resources/integrate_and_test_6761BA0C_Activity.jpeg" alt="Diagrama de la actividad: Integrar y probar " title="Diagrama de la actividad: Integrar y probar " usemap="#Activity_integrate_and_test"><map name="Activity_integrate_and_test">
+<area href="./../../core.base_rup/capabilitypatterns/verify_test_approach_E58263F5.html" relpath=",_ZqWJ0EetEdq_lfJYt-Zj8A" alt="Verificar el enfoque de prueba" title="Verificar el enfoque de prueba" coords="102, 130, 207, 197" shape="rect" guid="_ZqWJ0EetEdq_lfJYt-Zj8A"></area>
+<area href="./../../core.base_rup/capabilitypatterns/integrate_and_build_within_scope_1597192B.html" relpath=",_lGvUQEdjEdqVZeSWHJlGyA" alt="Integrar y validar la compilaci&oacute;n" title="Integrar y validar la compilaci&oacute;n" coords="244, 171, 406, 224" shape="rect" guid="_lGvUQEdjEdqVZeSWHJlGyA"></area>
+<area href="./../../core.base_rup/capabilitypatterns/test_and_evaluate_within_scope_3C6279C7.html" relpath=",_mUqf8EdjEdqVZeSWHJlGyA" alt="Prueba y evaluaci&oacute;n [dentro del &aacute;mbito]" title="Prueba y evaluaci&oacute;n [dentro del &aacute;mbito]" coords="385, 247, 548, 314" shape="rect" guid="_mUqf8EdjEdqVZeSWHJlGyA"></area>
+</map>
+</td>
+</tr>
+</table>
+</div>
+<div class="sectionHeading">Anomal&iacute;a del trabajo</div>
+<div class="sectionContent">
+<div id="treeContent"></div>
+<script language="JavaScript">
+contentPage.processPage.treeTable.data = {
+title: "Anomalía del trabajo", summary: "Anomalía del trabajo", 
+columns: [
+["presentation_name", "Elemento de desglose"],
+["steps", "Pasos"],
+["id", "Índice"],
+["predecessors", "Predecesores"],
+["model_info", "Información del modelo"],
+["type", "Tipo"],
+["is_planned", "Planeado"],
+["is_repeatable", "Se puede repetir"],
+["has_multiple_occurrences", "Varias apariciones"],
+["is_ongoing", "Continuo"],
+["is_event_driven", "Condicionado por sucesos"],
+["is_optional", "Opcional"],
+["teams", "Equipo"]],
+rows: [
+{id: "dbcaf9de", parentId: "", relPath: ",_ZqWJ0EetEdq_lfJYt-Zj8A", isSuppressed: "", indentSize: 0, hasChildren:true, 
+	index: "1", prefix: "", name: "verify_test_approach", title: "Verificar el enfoque de prueba", url: "./../../core.base_rup/capabilitypatterns/verify_test_approach_E58263F5.html", 
+	predecessors: "", info: "amplía \'verify_test_approach, core.base_rup/test\'", type: "Actividad", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "true", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "extends",
+	steps: []},
+
+{id: "8dc25a7c", parentId: "dbcaf9de", relPath: ",_ZqWJ0EetEdq_lfJYt-Zj8A,_q4_fwEohEdqrjq4i3fchvA", isSuppressed: "", indentSize: 1, hasChildren:true, 
+	index: "2", prefix: "", name: "implement_test_suite", title: "Implementar el conjunto de aplicaciones de prueba", url: "./../../core.base_rup/capabilitypatterns/implement_test_suite_4D41C58F.html", 
+	predecessors: "", info: "", type: "Tarea", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: [true,true,true,true,true,true,true,true,true,true]},
+
+{id: "660260fc", parentId: "8dc25a7c", relPath: ",_ZqWJ0EetEdq_lfJYt-Zj8A,_q4_fwEohEdqrjq4i3fchvA,_CT5ACRi2Edq_uI8xTPML6g", isSuppressed: "", indentSize: 2, hasChildren:false, 
+	index: "", prefix: "", name: "rup_tester", title: "Verificador", url: "./../../core.base_rup/capabilitypatterns/rup_tester_1F053E21.html", 
+	predecessors: "", info: "Realizador principal", type: "Rol", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+
+{id: "14ff86a6", parentId: "8dc25a7c", relPath: ",_ZqWJ0EetEdq_lfJYt-Zj8A,_q4_fwEohEdqrjq4i3fchvA,_CT5ADRi2Edq_uI8xTPML6g", isSuppressed: "", indentSize: 2, hasChildren:false, 
+	index: "", prefix: "", name: "rup_build", title: "Compilación", url: "./../../core.base_rup/capabilitypatterns/rup_build_E3972040.html", 
+	predecessors: "", info: "Entrada obligatoria", type: "Producto de trabajo", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+
+{id: "558e9902", parentId: "8dc25a7c", relPath: ",_ZqWJ0EetEdq_lfJYt-Zj8A,_q4_fwEohEdqrjq4i3fchvA,_CTmsIhi2Edq_uI8xTPML6g", isSuppressed: "", indentSize: 2, hasChildren:false, 
+	index: "", prefix: "", name: "rup_test_strategy", title: "Estrategia de prueba", url: "./../../core.base_rup/capabilitypatterns/rup_test_strategy_7FB79B6B.html", 
+	predecessors: "", info: "Entrada obligatoria", type: "Producto de trabajo", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+
+{id: "239831ba", parentId: "8dc25a7c", relPath: ",_ZqWJ0EetEdq_lfJYt-Zj8A,_q4_fwEohEdqrjq4i3fchvA,_q5LtAEohEdqrjq4i3fchvA", isSuppressed: "", indentSize: 2, hasChildren:false, 
+	index: "", prefix: "", name: "rup_test_suite", title: "Conjunto de aplicaciones de prueba", url: "./../../core.base_rup/capabilitypatterns/rup_test_suite_F1637807.html", 
+	predecessors: "", info: "Entrada opcional", type: "Producto de trabajo", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+
+{id: "470d4bec", parentId: "8dc25a7c", relPath: ",_ZqWJ0EetEdq_lfJYt-Zj8A,_q4_fwEohEdqrjq4i3fchvA,_CT5ACxi2Edq_uI8xTPML6g", isSuppressed: "", indentSize: 2, hasChildren:false, 
+	index: "", prefix: "", name: "rup_development_infrastructure", title: "Infraestructura de desarrollo", url: "./../../core.base_rup/capabilitypatterns/rup_development_infrastructure_183C3247.html", 
+	predecessors: "", info: "Entrada opcional", type: "Producto de trabajo", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+
+{id: "b8bd9f8e", parentId: "8dc25a7c", relPath: ",_ZqWJ0EetEdq_lfJYt-Zj8A,_q4_fwEohEdqrjq4i3fchvA,_CTmsLxi2Edq_uI8xTPML6g", isSuppressed: "", indentSize: 2, hasChildren:false, 
+	index: "", prefix: "", name: "rup_implementation_model", title: "Modelo de implementación", url: "./../../core.base_rup/capabilitypatterns/rup_implementation_model_D80B21D8.html", 
+	predecessors: "", info: "Entrada opcional", type: "Producto de trabajo", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+
+{id: "590fa87c", parentId: "8dc25a7c", relPath: ",_ZqWJ0EetEdq_lfJYt-Zj8A,_q4_fwEohEdqrjq4i3fchvA,_q5LtAEohEdqrjq4i3fchvA", isSuppressed: "", indentSize: 2, hasChildren:false, 
+	index: "", prefix: "", name: "rup_test_suite", title: "Conjunto de aplicaciones de prueba", url: "./../../core.base_rup/capabilitypatterns/rup_test_suite_F1637807.html", 
+	predecessors: "", info: "Salida", type: "Producto de trabajo", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+
+{id: "7b77d708", parentId: "", relPath: ",_lGvUQEdjEdqVZeSWHJlGyA", isSuppressed: "", indentSize: 0, hasChildren:true, 
+	index: "3", prefix: "", name: "integrate_and_build_within_scope", title: "Integrar y validar la compilación ", url: "./../../core.base_rup/capabilitypatterns/integrate_and_build_within_scope_1597192B.html", 
+	predecessors: "", info: "amplía \'integrate_and_validate_build, core.base_rup\'", type: "Actividad", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "true", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "extends",
+	steps: []},
+
+{id: "340378e4", parentId: "7b77d708", relPath: ",_lGvUQEdjEdqVZeSWHJlGyA,_3B7j8EdiEdqVZeSWHJlGyA", isSuppressed: "", indentSize: 1, hasChildren:true, 
+	index: "4", prefix: "", name: "integrate_each_subsystem", title: "Integrar los subsistemas", url: "./../../core.base_rup/capabilitypatterns/integrate_each_subsystem_34DF846B.html", 
+	predecessors: "", info: "amplía \'integrate_each_subsystem, core.base_rup/implementation\'", type: "Actividad", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "extends",
+	steps: []},
+
+{id: "84644722", parentId: "340378e4", relPath: ",_lGvUQEdjEdqVZeSWHJlGyA,_3B7j8EdiEdqVZeSWHJlGyA,_Ku1-YEofEdqrjq4i3fchvA", isSuppressed: "", indentSize: 2, hasChildren:false, 
+	index: "5", prefix: "", name: "implement_developer_test", title: "Implementar la prueba de desarrollador", url: "./../../core.base_rup/capabilitypatterns/implement_developer_test_616ACA87.html", 
+	predecessors: "", info: "", type: "Tarea", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: [true,true,true,true,true,true]},
+
+{id: "5fff3ef6", parentId: "340378e4", relPath: ",_lGvUQEdjEdqVZeSWHJlGyA,_3B7j8EdiEdqVZeSWHJlGyA,_LsJ7MEofEdqrjq4i3fchvA", isSuppressed: "", indentSize: 2, hasChildren:false, 
+	index: "6", prefix: "", name: "perform_developer_test", title: "Ejecutar pruebas de desarrollador", url: "./../../core.base_rup/capabilitypatterns/perform_developer_test_3F5DC181.html", 
+	predecessors: "", info: "", type: "Tarea", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: [true,true,true,true,true]},
+
+{id: "7ca5a5b2", parentId: "340378e4", relPath: ",_lGvUQEdjEdqVZeSWHJlGyA,_3B7j8EdiEdqVZeSWHJlGyA,_MpqsUEofEdqrjq4i3fchvA", isSuppressed: "", indentSize: 2, hasChildren:false, 
+	index: "7", prefix: "", name: "integrate_subsystem", title: "Integrar los subsistemas", url: "./../../core.base_rup/capabilitypatterns/integrate_subsystem_423E3E4A.html", 
+	predecessors: "", info: "", type: "Tarea", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: [true,true]},
+
+{id: "5b71ec7c", parentId: "7b77d708", relPath: ",_lGvUQEdjEdqVZeSWHJlGyA,_3ldHwEdiEdqVZeSWHJlGyA", isSuppressed: "", indentSize: 1, hasChildren:true, 
+	index: "8", prefix: "", name: "integrate_the_system", title: "Integrar el sistema", url: "./../../core.base_rup/capabilitypatterns/integrate_the_system_CB02447.html", 
+	predecessors: "", info: "amplía \'integrate_the_system, core.base_rup/implementation\'", type: "Actividad", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "extends",
+	steps: []},
+
+{id: "4f1f51e6", parentId: "5b71ec7c", relPath: ",_lGvUQEdjEdqVZeSWHJlGyA,_3ldHwEdiEdqVZeSWHJlGyA,_NnEvwUofEdqrjq4i3fchvA", isSuppressed: "", indentSize: 2, hasChildren:false, 
+	index: "9", prefix: "", name: "integrate_system", title: "Integrar el sistema", url: "./../../core.base_rup/capabilitypatterns/integrate_system_6EBE4304.html", 
+	predecessors: "", info: "", type: "Tarea", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: [true,true]},
+
+{id: "7af192a0", parentId: "7b77d708", relPath: ",_lGvUQEdjEdqVZeSWHJlGyA,_6oxHwEdiEdqVZeSWHJlGyA", isSuppressed: "", indentSize: 1, hasChildren:true, 
+	index: "10", prefix: "", name: "validate_build_stability", title: "Validar la estabilidad de la compilación", url: "./../../core.base_rup/capabilitypatterns/validate_build_stability_DEB0F413.html", 
+	predecessors: "8", info: "amplía \'validate_build_stability, core.base_rup/test\'", type: "Actividad", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "extends",
+	steps: []},
+
+{id: "97bb9936", parentId: "7af192a0", relPath: ",_lGvUQEdjEdqVZeSWHJlGyA,_6oxHwEdiEdqVZeSWHJlGyA,_shqGsEohEdqrjq4i3fchvA", isSuppressed: "", indentSize: 2, hasChildren:false, 
+	index: "11", prefix: "", name: "execute_test_suite", title: "Ejecutar el conjunto de aplicaciones de prueba", url: "./../../core.base_rup/capabilitypatterns/execute_test_suite_38D6CCD4.html", 
+	predecessors: "", info: "", type: "Tarea", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: [true,true,true,true,true,true,true,true,true,true]},
+
+{id: "77b30eda", parentId: "7af192a0", relPath: ",_lGvUQEdjEdqVZeSWHJlGyA,_6oxHwEdiEdqVZeSWHJlGyA,_vqUgwEohEdqrjq4i3fchvA", isSuppressed: "", indentSize: 2, hasChildren:false, 
+	index: "12", prefix: "", name: "determine_test_results", title: "Determinar resultados de prueba", url: "./../../core.base_rup/capabilitypatterns/determine_test_results_AFA8EC72.html", 
+	predecessors: "", info: "", type: "Tarea", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: [true,true,true,true,true,true,true,true,true]},
+
+{id: "4d1eecc8", parentId: "7af192a0", relPath: ",_lGvUQEdjEdqVZeSWHJlGyA,_6oxHwEdiEdqVZeSWHJlGyA,_wwmzYEohEdqrjq4i3fchvA", isSuppressed: "", indentSize: 2, hasChildren:false, 
+	index: "13", prefix: "", name: "assess_advocate_quality", title: "Valorar y defender la calidad", url: "./../../core.base_rup/capabilitypatterns/assess_advocate_quality_737D42B0.html", 
+	predecessors: "", info: "", type: "Tarea", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: [true,true,true,true,true,true,true,true,true,true]},
+
+{id: "d6ac6fa4", parentId: "", relPath: ",_mUqf8EdjEdqVZeSWHJlGyA", isSuppressed: "", indentSize: 0, hasChildren:true, 
+	index: "14", prefix: "", name: "test_and_evaluate_within_scope", title: "Prueba y evaluación [dentro del ámbito]", url: "./../../core.base_rup/capabilitypatterns/test_and_evaluate_within_scope_3C6279C7.html", 
+	predecessors: "", info: "amplía \'test_and_evaluate_within_scope, core.base_rup\'", type: "Actividad", 
+	repeatable: "false", multiOccurences: "true", optional: "false", planned: "true",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "extends",
+	steps: []},
+
+{id: "44ff94f8", parentId: "d6ac6fa4", relPath: ",_mUqf8EdjEdqVZeSWHJlGyA,_D1clqUdWEdqMoerwwyqMKQ", isSuppressed: "", indentSize: 1, hasChildren:true, 
+	index: "15", prefix: "", name: "test_and_evaluate", title: "Probar y evaluar", url: "./../../core.base_rup/capabilitypatterns/test_and_evaluate_883E3A46.html", 
+	predecessors: "", info: "amplía \'test_and_evaluate, core.base_rup/test\'", type: "Actividad", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "extends",
+	steps: []},
+
+{id: "65a1af1a", parentId: "44ff94f8", relPath: ",_mUqf8EdjEdqVZeSWHJlGyA,_D1clqUdWEdqMoerwwyqMKQ,_66OuwEohEdqrjq4i3fchvA", isSuppressed: "", indentSize: 2, hasChildren:false, 
+	index: "16", prefix: "", name: "implement_test_suite", title: "Implementar el conjunto de aplicaciones de prueba", url: "./../../core.base_rup/capabilitypatterns/implement_test_suite_F880024B.html", 
+	predecessors: "", info: "", type: "Tarea", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: [true,true,true,true,true,true,true,true,true,true]},
+
+{id: "8b0b70e8", parentId: "44ff94f8", relPath: ",_mUqf8EdjEdqVZeSWHJlGyA,_D1clqUdWEdqMoerwwyqMKQ,_7uL7QEohEdqrjq4i3fchvA", isSuppressed: "", indentSize: 2, hasChildren:false, 
+	index: "17", prefix: "", name: "execute_test_suite", title: "Ejecutar el conjunto de aplicaciones de prueba", url: "./../../core.base_rup/capabilitypatterns/execute_test_suite_E4D96734.html", 
+	predecessors: "", info: "", type: "Tarea", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: [true,true,true,true,true,true,true,true,true,true]},
+
+{id: "1c2e1d56", parentId: "44ff94f8", relPath: ",_mUqf8EdjEdqVZeSWHJlGyA,_D1clqUdWEdqMoerwwyqMKQ,_9VPYoEohEdqrjq4i3fchvA", isSuppressed: "", indentSize: 2, hasChildren:false, 
+	index: "18", prefix: "", name: "structure_the_test_implementation", title: "Estructurar la implementación de la prueba", url: "./../../core.base_rup/capabilitypatterns/structure_the_test_implementation_639FF693.html", 
+	predecessors: "", info: "", type: "Tarea", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: [true,true,true,true,true,true,true,true,true,true]},
+
+{id: "c951fbc0", parentId: "44ff94f8", relPath: ",_mUqf8EdjEdqVZeSWHJlGyA,_D1clqUdWEdqMoerwwyqMKQ,_-1sewEohEdqrjq4i3fchvA", isSuppressed: "", indentSize: 2, hasChildren:false, 
+	index: "19", prefix: "", name: "identify_test_ideas", title: "Identificar ideas de prueba", url: "./../../core.base_rup/capabilitypatterns/identify_test_ideas_B6EBB07B.html", 
+	predecessors: "", info: "", type: "Tarea", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: [true,true,true,true,true,true,true]},
+
+{id: "9dc246ba", parentId: "44ff94f8", relPath: ",_mUqf8EdjEdqVZeSWHJlGyA,_D1clqUdWEdqMoerwwyqMKQ,_BRd9oEoiEdqrjq4i3fchvA", isSuppressed: "", indentSize: 2, hasChildren:false, 
+	index: "20", prefix: "", name: "determine_test_results", title: "Determinar resultados de prueba", url: "./../../core.base_rup/capabilitypatterns/determine_test_results_A923A1B3.html", 
+	predecessors: "", info: "", type: "Tarea", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: [true,true,true,true,true,true,true,true,true]},
+
+{id: "1a01698", parentId: "d6ac6fa4", relPath: ",_mUqf8EdjEdqVZeSWHJlGyA,_D1WfBkdWEdqMoerwwyqMKQ", isSuppressed: "", indentSize: 1, hasChildren:true, 
+	index: "21", prefix: "", name: "achieve_acceptable_mission", title: "Alcanzar una misión aceptable", url: "./../../core.base_rup/capabilitypatterns/achieve_acceptable_mission_B27A73B1.html", 
+	predecessors: "", info: "amplía \'achieve_acceptable_mission, core.base_rup/test\'", type: "Actividad", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "extends",
+	steps: []},
+
+{id: "c35714ba", parentId: "1a01698", relPath: ",_mUqf8EdjEdqVZeSWHJlGyA,_D1WfBkdWEdqMoerwwyqMKQ,_ljeXIEoiEdqrjq4i3fchvA", isSuppressed: "", indentSize: 2, hasChildren:false, 
+	index: "22", prefix: "", name: "assess_advocate_quality", title: "Valorar y defender la calidad", url: "./../../core.base_rup/capabilitypatterns/assess_advocate_quality_8B076005.html", 
+	predecessors: "", info: "", type: "Tarea", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: [true,true,true,true,true,true,true,true,true,true]},
+
+{id: "f3ea51f6", parentId: "1a01698", relPath: ",_mUqf8EdjEdqVZeSWHJlGyA,_D1WfBkdWEdqMoerwwyqMKQ,_PYIOEEsZEdqlNo9QEt4izQ", isSuppressed: "", indentSize: 2, hasChildren:false, 
+	index: "23", prefix: "", name: "determine_test_results", title: "Determinar resultados de prueba", url: "./../../core.base_rup/capabilitypatterns/determine_test_results_70FC8B83.html", 
+	predecessors: "", info: "", type: "Tarea", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: [true,true,true,true,true,true,true,true,true]},
+
+{id: "bad325b0", parentId: "d6ac6fa4", relPath: ",_mUqf8EdjEdqVZeSWHJlGyA,_D2HUJUdWEdqMoerwwyqMKQ", isSuppressed: "", indentSize: 1, hasChildren:true, 
+	index: "24", prefix: "", name: "improve_test_assets", title: "Mejorar los activos de prueba", url: "./../../core.base_rup/capabilitypatterns/improve_test_assets_BA3D58B2.html", 
+	predecessors: "21,15", info: "amplía \'improve_test_assets, core.base_rup/test\'", type: "Actividad", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "extends",
+	steps: []},
+
+{id: "1c1f9e80", parentId: "bad325b0", relPath: ",_mUqf8EdjEdqVZeSWHJlGyA,_D2HUJUdWEdqMoerwwyqMKQ,_s1oWIEoiEdqrjq4i3fchvA", isSuppressed: "", indentSize: 2, hasChildren:false, 
+	index: "25", prefix: "", name: "define_test_approach", title: "Definir el enfoque de prueba", url: "./../../core.base_rup/capabilitypatterns/define_test_approach_A948CE9A.html", 
+	predecessors: "", info: "", type: "Tarea", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: [true,true,true,true,true,true,true,true,true,true,true]},
+
+{id: "9f75f278", parentId: "bad325b0", relPath: ",_mUqf8EdjEdqVZeSWHJlGyA,_D2HUJUdWEdqMoerwwyqMKQ,_urfEgEoiEdqrjq4i3fchvA", isSuppressed: "", indentSize: 2, hasChildren:false, 
+	index: "26", prefix: "", name: "structure_the_test_implementation", title: "Estructurar la implementación de la prueba", url: "./../../core.base_rup/capabilitypatterns/structure_the_test_implementation_5797B052.html", 
+	predecessors: "", info: "", type: "Tarea", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: [true,true,true,true,true,true,true,true,true,true]},
+
+{id: "a52dea4", parentId: "bad325b0", relPath: ",_mUqf8EdjEdqVZeSWHJlGyA,_D2HUJUdWEdqMoerwwyqMKQ,_vxS2AEoiEdqrjq4i3fchvA", isSuppressed: "", indentSize: 2, hasChildren:false, 
+	index: "27", prefix: "", name: "identify_test_ideas", title: "Identificar ideas de prueba", url: "./../../core.base_rup/capabilitypatterns/identify_test_ideas_876370FD.html", 
+	predecessors: "", info: "", type: "Tarea", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: [true,true,true,true,true,true,true]},
+
+{id: "c2281910", parentId: "bad325b0", relPath: ",_mUqf8EdjEdqVZeSWHJlGyA,_D2HUJUdWEdqMoerwwyqMKQ,_y7rHUEoiEdqrjq4i3fchvA", isSuppressed: "", indentSize: 2, hasChildren:false, 
+	index: "28", prefix: "", name: "implement_test_suite", title: "Implementar el conjunto de aplicaciones de prueba", url: "./../../core.base_rup/capabilitypatterns/implement_test_suite_FCC1519C.html", 
+	predecessors: "", info: "", type: "Tarea", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: [true,true,true,true,true,true,true,true,true,true]},
+
+]};
+				</script>
+</div>
+<table cellpadding="0" cellspacing="0" border="0" class="copyright">
+<tr>
+<td class="copyright"><p>
+    &copy; &nbsp;Copyright IBM Corp.&nbsp;1987, 2006. &nbsp;Reservados todos los derechos.
+</p></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+<script type="text/javascript" language="JavaScript">
+				contentPage.onload();
+			</script>
+</html>
